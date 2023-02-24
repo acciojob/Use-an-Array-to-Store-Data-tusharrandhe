@@ -1,2 +1,2 @@
-const li = document.getElementByName("li");
+const li = document.getElementsByName("li");
 let yourArray = ["one string",241,true];
