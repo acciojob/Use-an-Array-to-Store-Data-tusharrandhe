@@ -1,1 +1,1 @@
-
+let yourArray = ["one string",241,true];
